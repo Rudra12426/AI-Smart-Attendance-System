@@ -13,9 +13,9 @@ import winsound
 # -------------------------------
 # CONFIG
 # -------------------------------
-DATASET_PATH = r"C:\Users\Victus\OneDrive\Desktop\ML Project\AI Attendance System\Dataset"
-UNKNOWN_FOLDER = r"C:\Users\Victus\OneDrive\Desktop\ML Project\AI Attendance System\UnknownFaces"
-ATTENDANCE_FILE = r"C:\Users\Victus\OneDrive\Desktop\ML Project\AI Attendance System\attendance.csv"
+DATASET_PATH = r""
+UNKNOWN_FOLDER = r""
+ATTENDANCE_FILE = r""
 
 os.makedirs(UNKNOWN_FOLDER, exist_ok=True)
 
